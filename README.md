@@ -7,7 +7,7 @@ Examples :
 > running `rails console` inside **_~/code/current_project_** : `[1] current_project(dev) >`
 
 > [!NOTE]
-> For production env, the environment name appear in <p style="color: red;">red</p> (the red configured in your terminal)
+> For production env, the environment name appear in red 🟥 (the red configured in your terminal)
 
 ## Installation gem pry
 
