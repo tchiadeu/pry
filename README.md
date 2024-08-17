@@ -3,11 +3,11 @@
 A quick setup to customize the prompt using pry & rails.  
 After installation, the prompt will match the current directory name or the rails app name (with an hint for the current env).  
 Examples :  
-> running `pry` inside *~/code/current_project* : `[1] current_project(main) >`  
-> running `rails console` inside *~/code/current_project* : `[1] current_project(dev) >`
+> running `pry` inside **_~/code/current_project_** : `[1] current_project(main) >`  
+> running `rails console` inside **_~/code/current_project_** : `[1] current_project(dev) >`
 
 > [!NOTE]
-> For production env, the environment name appear in red `#FF0000` (the red configured in your terminal)
+> For production env, the environment name appear in <p style="color: red;">red</p> (the red configured in your terminal)
 
 ## Installation gem pry
 
