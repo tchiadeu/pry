@@ -2,8 +2,8 @@
 
 A quick setup to customize the prompt using pry & rails.  
 After installation, the prompt will match the current directory name or the rails app name (with an hint for the current env).  
-Examples :  
-- running `pry` inside **_~/code/current_project_** : `[1] current_project(main) >`  
+Examples :
+- running `pry` inside **_~/code/current_project_** : `[1] current_project(main) >`
 - running `rails console` inside **_~/code/current_project_** : `[1] current_project(dev) >`
 
 > [!NOTE]
