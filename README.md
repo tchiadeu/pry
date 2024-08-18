@@ -11,6 +11,7 @@ Examples :
 
 ## Installation gem pry
 
+If already installed, skip this step
 ```sh
 gem install pry
 ```
